@@ -5,6 +5,7 @@ Showing movie recommendations is necessary so that the user does not waste time 
 So, I have  tried to build a content based ‘Movie Recommender System’  which suggests popular movies to the user .
 A content-based recommendation help the users get personalized suggestions for their input unlike collaborative filtering.
 What is Content based recommendation?
+
 A content based ‘Movie Recommender System’ uses attributes such as genre,director,description,actors,etc. for movies, to make suggestions for the users.
 
 The intuition behind this sort of recommendation system is that if a user liked a particular movie,he or she might like a movie similar to it.
